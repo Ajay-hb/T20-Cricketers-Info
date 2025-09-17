@@ -56,7 +56,7 @@ The aim is to help selectors, analysts, and fans make data-driven decisions by c
 ## 🖼️ Dashboard Preview
 Here’s a snapshot of the dashboard:
 
-![Power BI Dashboard]("C:\Users\AJAY\OneDrive\Pictures\Screenshots\Screenshot 2025-09-17 151726.png")
+![Power BI Dashboard]("")
 
 ---
 
