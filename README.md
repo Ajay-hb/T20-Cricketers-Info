@@ -82,3 +82,32 @@ Here’s a snapshot of the dashboard:
 ---
 
 ## 📂 Repository Structure
+
+
+
+
+---
+
+## 🎯 Key Insights (Example from Dashboard)
+- **Jos Buttler** has the highest batting average among the openers.
+- **Quinton de Kock** and **Rilee Rossouw** excel with high strike rates above 160.
+- **Kusal Mendis** faced the most innings but had a relatively lower average.
+- **Alex Hales** balanced between high boundary percentage and consistent average.
+
+---
+
+## 🔧 Tools & Technologies
+- **Power BI Desktop**
+- **Data Visualization**
+- **Cricket Player Statistics Dataset**
+
+---
+
+## 🌟 Future Enhancements
+- Add **bowling performance metrics** for all-rounders and bowlers.
+- Integrate live cricket data using APIs.
+- Provide role-based dashboards (captain, coach, analyst view).
+
+---
+
+
