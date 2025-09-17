@@ -56,7 +56,7 @@ The aim is to help selectors, analysts, and fans make data-driven decisions by c
 ## 🖼️ Dashboard Preview
 Here’s a snapshot of the dashboard:
 
-![Power BI Dashboard]("")
+![Power BI Dashboard]("https://github.com/Ajay-hb/T20-Cricketers-Info/blob/main/Screenshot%202025-09-17%20151726.png")
 
 ---
 
